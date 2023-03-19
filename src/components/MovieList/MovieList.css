@@ -1,0 +1,11 @@
+
+  @media (min-width: 450px) {
+
+    .all-content {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+    }
+
+
+  }
